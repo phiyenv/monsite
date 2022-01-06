@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import About from "./components/About"
+import Header from "./components/Header"
 
 import "./App.css";
 
@@ -17,7 +18,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <About data={resumeData.main}/> 
+      <About data={resumeData.main}/>
+      <Header data={resumeData.main}/> 
 
     </div>
   );
