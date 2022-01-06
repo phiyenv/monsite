@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 
+import About from "./components/About"
+
 import "./App.css";
 
 const App = () => {
@@ -15,7 +17,7 @@ const App = () => {
 
   return (
     <div className="App">
-      Hello 
+      <About data={resumeData.main}/> 
 
     </div>
   );
