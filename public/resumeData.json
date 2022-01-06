@@ -1,0 +1,83 @@
+{
+  "main": {
+    "name": "Phi-Yen Vu",
+    "occupation": "Student in Software Engineering",
+    "description": "Welcome to my cozy space",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Phi-Yen! My goal is to work with startups and large corporations to help build and scale their companies.",
+    "contactmessage": "Get in touch with me to collaborate!",
+    "email": "oiphiyenvu@gmail.com",
+    "phone": "+33 6 77 82 59 15",
+    "address": {
+      "city": "Paris",
+      "zip": "75009"
+    },
+    "website": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/phiyenvu/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/phiyenv",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Paris Nanterre",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "IDEMIA",
+        "title": "IT Project Manager",
+        "years": "February 2021 - August 2021",
+        "description": "Directing technological research by studying organization goals, strategies, practices, and user projects. Maintaining organization’s effectiveness and efficiency by defining, delivering, and supporting strategic plans for implementing information technologies. Maintaining staff by orienting, supporting and training employees. Accomplishing financial objectives by forecasting requirements."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "20%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "30%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Master Baguette App (MERN)",
+        "category": "",
+        "image": "masterbaguette.png",
+        "url": "https://github.com/phiyenv/master-baguette"
+      }
+    ]
+  }
+}
