@@ -14,11 +14,7 @@
     },
     "website": "",
     "social": [
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/phiyenvu/",
-        "className": "fa fa-linkedin"
-      },
+
       {
         "name": "github",
         "url": "https://github.com/phiyenv",
@@ -38,9 +34,17 @@
     "work": [
       {
         "company": "IDEMIA",
-        "title": "Transformation Project Manager",
+        "title": "Project Manager - Finance Transformation",
         "years": "February 2021 - August 2021",
-        "description": "Directing technological research by studying organization goals, strategies, practices, and user projects. Maintaining organization’s effectiveness and efficiency by defining, delivering, and supporting strategic plans for implementing information technologies. Maintaining staff by orienting, supporting and training employees. Accomplishing financial objectives by forecasting requirements."
+        "description": "Analyze, Map, Measure and Optimize processes (VBA). Design specifications and user guides. Migrate, Update and Maintain Master Data from IBM Cognos TM1 to Anaplan system. Lead projects in their entirety with the support of other team members with Agile methodology (developers in Philippines, consultants, Business Intelligence team). Train financial collaborators. Create detailed project road maps, plans and schedules. Build, Support and Automate finance reporting and provide exploration capability for reporting users. Support key users and end users.  "
+      }, 
+
+      {
+        "company" : "LIP6 - Sorbonne University and French National Center for Scientific Research",
+        "title": "Research Student",
+        "years": "June 2020 - August 2020",
+        "description": "Present results of a study undertaken to seek and assess Software Product Lines approaches for BPM through a Systematic Literature Review (SLR)"
+
       }
     ],
     "skills": [
@@ -73,10 +77,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Master Baguette App (MERN)",
+        "title": "Master Baguette App",
         "category": "",
         "image": "masterbaguette.png",
-        "url": "https://github.com/phiyenv/master-baguette"
+        "url": "https://github.com/phiyenv/MasterBaguette"
       }
     ]
   }
