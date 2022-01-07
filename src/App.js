@@ -21,10 +21,11 @@ const App = () => {
 
   return (
     <div className="App">
-      <About data={resumeData.main}/>
       <Header data={resumeData.main}/> 
-      <Footer data={resumeData.main}/>
+      <About data={resumeData.main}/>
       <Contact data={resumeData.main}/>
+      <Footer data={resumeData.main}/>
+
 
     </div>
   );
