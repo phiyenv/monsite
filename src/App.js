@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 
 import About from "./components/About"
 import Header from "./components/Header"
+import Footer from "./components/Footer";
+
 
 import "./App.css";
 
@@ -20,6 +22,7 @@ const App = () => {
     <div className="App">
       <About data={resumeData.main}/>
       <Header data={resumeData.main}/> 
+      <Footer data={resumeData.main}/>
 
     </div>
   );
