@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Phi-Yen Vu",
-    "occupation": "Student in Software Engineering",
+    "occupation": "Software Engineer",
     "description": "Welcome to my cozy space",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Phi-Yen! My goal is to work with startups and large corporations to help build and scale their companies.",
@@ -32,6 +32,13 @@
       }
     ],
     "work": [
+      {
+        "company": "Business Software Consulting",
+        "title": "Software Engineer",
+        "years": "March 2022 - today"
+        
+      },
+
       {
         "company": "IDEMIA",
         "title": "Project Manager - Finance Transformation",
